@@ -1,0 +1,11 @@
+C:\Users\Igor\source\repos\Seguro\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Users\Igor\source\repos\Seguro\Domain\bin\Debug\net9.0\Domain.dll
+C:\Users\Igor\source\repos\Seguro\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Users\Igor\source\repos\Seguro\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\Seguro\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\Seguro\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Users\Igor\source\repos\Seguro\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Seguro\Domain\obj\Debug\net9.0\Domain.dll
+C:\Users\Igor\source\repos\Seguro\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Users\Igor\source\repos\Seguro\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Users\Igor\source\repos\Seguro\Domain\obj\Debug\net9.0\ref\Domain.dll

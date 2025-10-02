@@ -1,0 +1,17 @@
+C:\Users\Igor\source\repos\Seguro\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\Igor\source\repos\Seguro\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\Igor\source\repos\Seguro\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\Igor\source\repos\Seguro\Infrastructure\bin\Debug\net9.0\Application.dll
+C:\Users\Igor\source\repos\Seguro\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Users\Igor\source\repos\Seguro\Infrastructure\bin\Debug\net9.0\Application.pdb
+C:\Users\Igor\source\repos\Seguro\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Users\Igor\source\repos\Seguro\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\Seguro\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\Seguro\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\Seguro\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Igor\source\repos\Seguro\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Seguro\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Igor\source\repos\Seguro\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\Igor\source\repos\Seguro\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\Igor\source\repos\Seguro\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\Igor\source\repos\Seguro\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
