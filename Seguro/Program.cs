@@ -31,6 +31,16 @@ static void ConfigureServices(IServiceCollection services)
     {
         options.SuppressModelStateInvalidFilter = true;
     });
+
+    services.AddCors(options =>
+    {
+        options.AddPolicy("AllowAll", builder =>
+        {
+            builder.AllowAnyOrigin()
+                   .AllowAnyMethod()
+                   .AllowAnyHeader();
+        });
+    });
 }
 
 static void ConfigureMiddleware(WebApplication app)
@@ -42,4 +52,5 @@ static void ConfigureMiddleware(WebApplication app)
     }
 
     app.UseHttpsRedirection();
+    app.UseCors("AllowAll");
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qTWDjr5AEcI=",
+  "dgSpecHash": "kGfoYmoEMQc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Igor\\source\\repos\\Seguro\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\seg\\Seguro\\Seguro\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Igor\\.nuget\\packages\\mediatr\\13.0.0\\mediatr.13.0.0.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

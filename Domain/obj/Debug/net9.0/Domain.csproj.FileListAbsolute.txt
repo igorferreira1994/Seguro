@@ -9,3 +9,15 @@ C:\Users\Igor\source\repos\Seguro\Domain\obj\Debug\net9.0\Domain.dll
 C:\Users\Igor\source\repos\Seguro\Domain\obj\Debug\net9.0\refint\Domain.dll
 C:\Users\Igor\source\repos\Seguro\Domain\obj\Debug\net9.0\Domain.pdb
 C:\Users\Igor\source\repos\Seguro\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\seg\Seguro\Seguro\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\seg\Seguro\Seguro\Domain\bin\Debug\net9.0\Domain.dll
+C:\seg\Seguro\Seguro\Domain\bin\Debug\net9.0\Domain.pdb
+C:\seg\Seguro\Seguro\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\seg\Seguro\Seguro\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\seg\Seguro\Seguro\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\seg\Seguro\Seguro\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\seg\Seguro\Seguro\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+C:\seg\Seguro\Seguro\Domain\obj\Debug\net9.0\Domain.dll
+C:\seg\Seguro\Seguro\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\seg\Seguro\Seguro\Domain\obj\Debug\net9.0\Domain.pdb
+C:\seg\Seguro\Seguro\Domain\obj\Debug\net9.0\ref\Domain.dll

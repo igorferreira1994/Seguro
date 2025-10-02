@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Igor\\source\\repos\\Seguro\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\seg\\Seguro\\Seguro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8756D0-9FF1-46E9-A2BA-D44617F03B42}|Seguro\\Seguro.csproj|c:\\seg\\seguro\\seguro\\seguro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8756D0-9FF1-46E9-A2BA-D44617F03B42}|Seguro\\Seguro.csproj|solutionrelative:seguro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\seg\\Seguro\\Seguro\\Seguro\\Program.cs",
+              "RelativeDocumentMoniker": "Seguro\\Program.cs",
+              "ToolTip": "C:\\seg\\Seguro\\Seguro\\Seguro\\Program.cs",
+              "RelativeToolTip": "Seguro\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:08:01.735Z",
+              "EditorCaption": ""
             }
           ]
         },

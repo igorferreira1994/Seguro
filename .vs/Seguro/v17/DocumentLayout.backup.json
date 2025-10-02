@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Igor\\source\\repos\\Seguro\\",
+  "WorkspaceRootPath": "C:\\seg\\Seguro\\Seguro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE600E15-6D4D-49C3-810F-29202DAE3B2F}|Test\\Test.csproj|c:\\users\\igor\\source\\repos\\seguro\\test\\createpropostacommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE600E15-6D4D-49C3-810F-29202DAE3B2F}|Test\\Test.csproj|solutionrelative:test\\createpropostacommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC8756D0-9FF1-46E9-A2BA-D44617F03B42}|Seguro\\Seguro.csproj|c:\\seg\\seguro\\seguro\\seguro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8756D0-9FF1-46E9-A2BA-D44617F03B42}|Seguro\\Seguro.csproj|solutionrelative:seguro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreatePropostaCommandHandlerTests.cs",
-              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Seguro\\Test\\CreatePropostaCommandHandlerTests.cs",
-              "RelativeDocumentMoniker": "Test\\CreatePropostaCommandHandlerTests.cs",
-              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Seguro\\Test\\CreatePropostaCommandHandlerTests.cs*",
-              "RelativeToolTip": "Test\\CreatePropostaCommandHandlerTests.cs*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\seg\\Seguro\\Seguro\\Seguro\\Program.cs",
+              "RelativeDocumentMoniker": "Seguro\\Program.cs",
+              "ToolTip": "C:\\seg\\Seguro\\Seguro\\Seguro\\Program.cs",
+              "RelativeToolTip": "Seguro\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:52:21.28Z",
+              "WhenOpened": "2025-10-02T20:08:01.735Z",
               "EditorCaption": ""
             }
           ]

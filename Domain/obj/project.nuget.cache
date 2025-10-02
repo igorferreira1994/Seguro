@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ENtQSabgAjs=",
+  "dgSpecHash": "B2zfFXoiEDo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Igor\\source\\repos\\Seguro\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\seg\\Seguro\\Seguro\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
