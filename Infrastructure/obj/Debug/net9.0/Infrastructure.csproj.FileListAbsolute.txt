@@ -16,6 +16,7 @@ C:\Users\Igor\source\repos\Seguro\Infrastructure\obj\Debug\net9.0\refint\Infrast
 C:\Users\Igor\source\repos\Seguro\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
 C:\Users\Igor\source\repos\Seguro\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
 C:\seg\Seguro\Seguro\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\seg\Seguro\Seguro\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
 C:\seg\Seguro\Seguro\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
 C:\seg\Seguro\Seguro\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
 C:\seg\Seguro\Seguro\Infrastructure\bin\Debug\net9.0\Application.dll
@@ -32,4 +33,5 @@ C:\seg\Seguro\Seguro\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
 C:\seg\Seguro\Seguro\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
 C:\seg\Seguro\Seguro\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
 C:\seg\Seguro\Seguro\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\seg\Seguro\Seguro\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
 C:\seg\Seguro\Seguro\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll

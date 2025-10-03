@@ -1,0 +1,12 @@
+CREATE TABLE Propostas (
+    Id NVARCHAR(450) PRIMARY KEY,
+    NomeCliente NVARCHAR(MAX) NOT NULL,
+    Valor DECIMAL(18,2) NOT NULL,
+    Status INT NOT NULL
+);
+
+CREATE TABLE Contratacoes (
+    Id NVARCHAR(450) PRIMARY KEY,
+    PropostaId NVARCHAR(450) NOT NULL,
+    DataContratacao DATETIME2 NOT NULL
+);

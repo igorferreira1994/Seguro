@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\seg\\Seguro\\Seguro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AC8756D0-9FF1-46E9-A2BA-D44617F03B42}|Seguro\\Seguro.csproj|c:\\seg\\seguro\\seguro\\seguro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC8756D0-9FF1-46E9-A2BA-D44617F03B42}|Seguro\\Seguro.csproj|solutionrelative:seguro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8756D0-9FF1-46E9-A2BA-D44617F03B42}|Seguro\\Seguro.csproj|c:\\seg\\seguro\\seguro\\seguro\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC8756D0-9FF1-46E9-A2BA-D44617F03B42}|Seguro\\Seguro.csproj|solutionrelative:seguro\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB80D77-D524-4065-8603-6A9329B7FF76}|Infrastructure\\Infrastructure.csproj|c:\\seg\\seguro\\seguro\\infrastructure\\sqlpropostarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB80D77-D524-4065-8603-6A9329B7FF76}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\sqlpropostarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AC8756D0-9FF1-46E9-A2BA-D44617F03B42}|Seguro\\Seguro.csproj|c:\\seg\\seguro\\seguro\\seguro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC8756D0-9FF1-46E9-A2BA-D44617F03B42}|Seguro\\Seguro.csproj|solutionrelative:seguro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB80D77-D524-4065-8603-6A9329B7FF76}|Infrastructure\\Infrastructure.csproj|c:\\seg\\seguro\\seguro\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FB80D77-D524-4065-8603-6A9329B7FF76}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB80D77-D524-4065-8603-6A9329B7FF76}|Infrastructure\\Infrastructure.csproj|c:\\seg\\seguro\\seguro\\infrastructure\\sqlcontratacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB80D77-D524-4065-8603-6A9329B7FF76}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\sqlcontratacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB80D77-D524-4065-8603-6A9329B7FF76}|Infrastructure\\Infrastructure.csproj|c:\\seg\\seguro\\seguro\\infrastructure\\inmemorycontratacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB80D77-D524-4065-8603-6A9329B7FF76}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\inmemorycontratacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB80D77-D524-4065-8603-6A9329B7FF76}|Infrastructure\\Infrastructure.csproj|c:\\seg\\seguro\\seguro\\infrastructure\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB80D77-D524-4065-8603-6A9329B7FF76}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB80D77-D524-4065-8603-6A9329B7FF76}|Infrastructure\\Infrastructure.csproj|c:\\seg\\seguro\\seguro\\infrastructure\\inmemorypropostarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB80D77-D524-4065-8603-6A9329B7FF76}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\inmemorypropostarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8756D0-9FF1-46E9-A2BA-D44617F03B42}|Seguro\\Seguro.csproj|c:\\seg\\seguro\\seguro\\seguro\\controllers\\propostascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8756D0-9FF1-46E9-A2BA-D44617F03B42}|Seguro\\Seguro.csproj|solutionrelative:seguro\\controllers\\propostascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,16 +58,127 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\seg\\Seguro\\Seguro\\Seguro\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Seguro\\appsettings.Development.json",
+              "ToolTip": "C:\\seg\\Seguro\\Seguro\\Seguro\\appsettings.Development.json",
+              "RelativeToolTip": "Seguro\\appsettings.Development.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T17:00:54.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\seg\\Seguro\\Seguro\\Seguro\\appsettings.json",
+              "RelativeDocumentMoniker": "Seguro\\appsettings.json",
+              "ToolTip": "C:\\seg\\Seguro\\Seguro\\Seguro\\appsettings.json*",
+              "RelativeToolTip": "Seguro\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T17:00:51.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\seg\\Seguro\\Seguro\\Seguro\\Program.cs",
               "RelativeDocumentMoniker": "Seguro\\Program.cs",
               "ToolTip": "C:\\seg\\Seguro\\Seguro\\Seguro\\Program.cs",
               "RelativeToolTip": "Seguro\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T20:08:01.735Z",
+              "WhenOpened": "2025-10-03T16:56:59.361Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqlContratacaoRepository.cs",
+              "DocumentMoniker": "C:\\seg\\Seguro\\Seguro\\Infrastructure\\SqlContratacaoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SqlContratacaoRepository.cs",
+              "ToolTip": "C:\\seg\\Seguro\\Seguro\\Infrastructure\\SqlContratacaoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\SqlContratacaoRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:56:27.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlPropostaRepository.cs",
+              "DocumentMoniker": "C:\\seg\\Seguro\\Seguro\\Infrastructure\\SqlPropostaRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SqlPropostaRepository.cs",
+              "ToolTip": "C:\\seg\\Seguro\\Seguro\\Infrastructure\\SqlPropostaRepository.cs",
+              "RelativeToolTip": "Infrastructure\\SqlPropostaRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:55:59.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\seg\\Seguro\\Seguro\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\seg\\Seguro\\Seguro\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-03T17:09:58.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\seg\\Seguro\\Seguro\\Infrastructure\\DbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DbContext.cs",
+              "ToolTip": "C:\\seg\\Seguro\\Seguro\\Infrastructure\\DbContext.cs",
+              "RelativeToolTip": "Infrastructure\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:54:54.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InMemoryPropostaRepository.cs",
+              "DocumentMoniker": "C:\\seg\\Seguro\\Seguro\\Infrastructure\\InMemoryPropostaRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\InMemoryPropostaRepository.cs",
+              "ToolTip": "C:\\seg\\Seguro\\Seguro\\Infrastructure\\InMemoryPropostaRepository.cs",
+              "RelativeToolTip": "Infrastructure\\InMemoryPropostaRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:50:13.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryContratacaoRepository.cs",
+              "DocumentMoniker": "C:\\seg\\Seguro\\Seguro\\Infrastructure\\InMemoryContratacaoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\InMemoryContratacaoRepository.cs",
+              "ToolTip": "C:\\seg\\Seguro\\Seguro\\Infrastructure\\InMemoryContratacaoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\InMemoryContratacaoRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:49:56.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PropostasController.cs",
+              "DocumentMoniker": "C:\\seg\\Seguro\\Seguro\\Seguro\\Controllers\\PropostasController.cs",
+              "RelativeDocumentMoniker": "Seguro\\Controllers\\PropostasController.cs",
+              "ToolTip": "C:\\seg\\Seguro\\Seguro\\Seguro\\Controllers\\PropostasController.cs",
+              "RelativeToolTip": "Seguro\\Controllers\\PropostasController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:45:24.927Z"
             }
           ]
         },
